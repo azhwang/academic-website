@@ -7,6 +7,30 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/fentanyl.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">bioRxiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.1101/2024.03.15.584894">Correspondence of fentanyl brain pharmacokinetics and behavior measured via engineering opioids biosensors and computational ethology</a></div>
+    <div class="author">Anand K. Muthusamy, Matthew H. Rosenberg, Charlene H. Kim, <strong>Alexander Z. Wang</strong>, Haruka Ebisu, Theodore M. Chin, Ashil Koranne, Jonathan S. Marvin, Bruce N. Cohen, Loren L. Looger, Yuki Oka, Markus Meister, Henry A. Lester</div>
+    <div class="periodical"><em>bioRxiv, 2024.</em></div>
+    <div class="links">
+      <a href="https://www.biorxiv.org/content/10.1101/2024.03.15.584894v1.full.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <!-- <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/iscience.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">iScience</abbr>
   </div>
