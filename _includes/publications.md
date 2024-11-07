@@ -7,6 +7,30 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/aptamer.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Nat. Comput. Sci.</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://doi.org/10.1038/s43588-024-00720-6">Deep generative design of RNA aptamers using structural predictions</a></div>
+    <div class="author">Felix Wong, Dongchen He, Aarti Krishnan, Liang Hong, <strong>Alexander Z. Wang</strong>, Jiuming Wang, Zhihang Hu, Satotaka Omori, Alicia Li, Jiahua Rao, Qinze Yu, Wengong Jin, Tianqing Zhang, Katherine Ilia, Jack X. Chen, Shuangjia Zheng, Irwin King, Yu Li, James J. Collins</div>
+    <div class="periodical"><em>Nature Computational Science, 2024.</em></div>
+    <div class="links">
+      <a href="https://static1.squarespace.com/static/5c264953620b850c9fb03732/t/672b9631d64f6223f6557e4f/1730909746732/naturecompsci_wong.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <!-- <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/fentanyl.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">bioRxiv</abbr>
   </div>
